@@ -1,0 +1,7 @@
+#root{ height: 1200px; background:#fff;}
+nav[data-bs-theme="light"] {
+  border-bottom: 1px solid #cccccc38;
+}
+nav[data-bs-theme="dark"] {
+  border-bottom: 1px solid #ffffff36;
+}
